@@ -40,10 +40,10 @@ function Portfolio() {
                 <span className="text-info"><b>Aparna Vinod</b></span>
               </h2>
               <h2 className="text-secondary mt-4" id="mern">
-                <b><span className="text-info">MEA(R)N</span> Stack Web Developer</b>
+                <b><span className="text-info">MER(A)N</span> Stack Web Developer</b>
               </h2>
               <h6 className="text-secondary mt-3">
-                <b>Passionate MERN stack developer with a knack for building scalable, full-stack web applications.<br />Skilled in MongoDB, Express, React, and Node.js, I bring creative solutions to complex problems.</b>
+                <b>Passionate MER(A)N stack developer with a knack for building scalable, full-stack web applications.<br />Skilled in MongoDB, Express, React, Angular and Node.js, I bring creative solutions to complex problems.</b>
               </h6>
             </div>
            
