@@ -1,0 +1,41 @@
+*{
+  font-family: "Playwrite DE Grund", cursive;
+}
+.nav-link:hover {
+  
+ text-shadow: 2px 4px 6px white;
+  background-color: purple;
+  color: white !important; 
+  transition: background-color 0.3s ease;
+ 
+}
+.nav{
+  border-radius: 80%;
+  font-size: 20px;
+  text-shadow: 2px 4px 6px gray;
+ 
+}
+#name{
+  font-size: 75px;
+}
+.intro1{
+  margin-top: 100px;
+}
+#mern{
+  font-size: 40px;
+}
+img{
+  text-shadow: 2px 4px 6px whitesmoke;
+}
+#nav{
+  position: sticky;
+}
+.transform-on-hover {
+  transition: transform 0.3s ease-in-out, color 0.3s ease-in-out; /* Smooth transition for both transform and color */
+}
+
+.transform-on-hover:hover {
+  transform: scale(1.05); /* Slight zoom effect on hover */
+  
+  
+}
