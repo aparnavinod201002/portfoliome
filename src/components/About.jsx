@@ -16,7 +16,7 @@ function About() {
             <Col md={6}>
               <div className="border rounded border-info p-4 text-center transform-on-hover">
                 <h5 className="fw-bolder text-secondary mb-5 mt-5">
-                  I’m passionate about building seamless web applications from front to back. With expertise in both MERN (MongoDB, Express.js, React, Node.js) and MEAN (MongoDB, Express.js, Angular, Node.js) stacks, I create efficient, scalable, and user-friendly solutions.
+                  I’m passionate about building seamless web applications from front to back. With expertise in both MERN (MongoDB, Express.js, React, Node.js) stack, I create efficient, scalable, and user-friendly solutions.
                 </h5>
               </div>
             </Col>

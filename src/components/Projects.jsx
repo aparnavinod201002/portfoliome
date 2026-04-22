@@ -4,6 +4,8 @@ import { Card, Button, Col, Container, Row } from 'react-bootstrap';
 import coffe from '../assets/coffe.png';
 import budget from '../assets/budget.png';
 import season from '../assets/season.png';
+import readMax from '../assets/readMax.png';
+import kalagraham from '../assets/kalagraham.png';
 
 function Projects() {
   return (
@@ -20,7 +22,35 @@ function Projects() {
 
         <Row className="justify-content-center">
           {/* Card 1 */}
-          <Col md={6} lg={4} className="mb-4">
+      
+
+            <Col md={6} lg={4} className="mb-4">
+            <Card className="h-100 bg-transparent">
+              <Card.Img variant="top" src={readMax} alt="Project 1" />
+              <Card.Body>
+                <Card.Title className='text-info'></Card.Title>
+                <Card.Text className='text-secondary'>
+                 
+                </Card.Text>
+                <Button variant="info" className='text-light' href='https://www.readmaxeducational.com/'>View Project</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+
+          
+            <Col md={6} lg={4} className="mb-4">
+            <Card className="h-100 bg-transparent">
+              <Card.Img variant="top" src={kalagraham} alt="Project 1" />
+              <Card.Body>
+                <Card.Title className='text-info'></Card.Title>
+                <Card.Text className='text-secondary'>
+                 
+                </Card.Text>
+                <Button variant="info" className='text-light' href='https://kalagraham.vercel.app/'>View Project</Button>
+              </Card.Body>
+            </Card>
+          </Col>
+    <Col md={6} lg={4} className="mb-4">
             <Card className="h-100 bg-transparent">
               <Card.Img variant="top" src={coffe} alt="Project 1" />
               <Card.Body>
@@ -32,7 +62,7 @@ function Projects() {
               </Card.Body>
             </Card>
           </Col>
-
+          
           {/* Card 2 */}
           <Col md={6} lg={4} className="mb-4 ">
             <Card className="h-100 bg-transparent">

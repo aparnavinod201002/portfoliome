@@ -59,7 +59,7 @@
               {/* MongoDB */}
               <Col xs={6} md={3} className="mb-4">
                 <Card className="text-center bg-transparent">
-                  <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular" />
+                  <Card.Img variant="top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROSVsyTE3Rq2DeKnZ9DvrUCTjEv6k0NTDNvw&s" alt="Angular" />
                   {/* <Card.Body>
                     <Card.Title  className='text-info'>Angular</Card.Title>
                   </Card.Body> */}
@@ -69,6 +69,15 @@
               <Col xs={6} md={3} className="mb-4">
                 <Card className="text-center bg-transparent">
                   <Card.Img variant="top" src="https://www.vedantu.com/seo/content-images/0c7a192d-61bd-4e70-b94a-6ab7a4085d92.png" alt="MongoDB" />
+                  {/* <Card.Body>
+                    <Card.Title  className='text-info'>HTML</Card.Title>
+                  </Card.Body> */}
+                </Card>
+              </Col>
+
+                  <Col xs={6} md={3} className="mb-4">
+                <Card className="text-center bg-transparent">
+                  <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" alt="MongoDB" />
                   {/* <Card.Body>
                     <Card.Title  className='text-info'>HTML</Card.Title>
                   </Card.Body> */}
@@ -87,24 +96,6 @@
     
               {/* Angular */}
             
-    
-              {/* Node.js */}
-              <Col xs={6} md={3} className="mb-4">
-                <Card className="text-center bg-transparent">
-                  <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="Node.js" />
-                  {/* <Card.Body>
-                    <Card.Title  className='text-info'>Bootstrap</Card.Title>
-                  </Card.Body> */}
-                </Card>
-              </Col>
-              <Col xs={6} md={3} className="mb-4">
-                <Card className="text-center bg-transparent">
-                  <Card.Img variant="top" src="https://lh3.googleusercontent.com/proxy/tFxXWFyf9NpTnpA8NHLg8I3JNMj0C6Fs21_LUwILMuMxIrZCPifRqSq-Av4i5D27aLUWP8Fwc4C6z6uzDYZ7Eq69vkUVqM1bK9Ti_g-n-tvRKA" alt="Angular" />
-                  {/* <Card.Body>
-                    <Card.Title  className='text-info'>Javasript</Card.Title>
-                  </Card.Body> */}
-                </Card>
-              </Col>
             </Row>
           </Container>
         </div>

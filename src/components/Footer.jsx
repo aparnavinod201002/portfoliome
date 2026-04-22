@@ -9,6 +9,7 @@ function Footer() {
           <Col md={6} className="text-center text-md-left mb-3 mb-md-0">
             <h5 className='text-info fw-bolder' id='contact'>Get in Touch</h5>
             <p className='text-info'>Feel free to connect with me on social media or drop me an email.</p>
+              <p className='text-info'>aparnavinod083@gmail.com</p>
           </Col>
           <Col md={6} className="text-center text-md-right">
             <h5 className='text-info fw-bolder'>Connect</h5>

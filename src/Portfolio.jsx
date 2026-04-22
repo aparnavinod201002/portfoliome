@@ -4,7 +4,7 @@ import pic from './assets/pic.png';
 import About from './components/About';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
-import Aparna from './assets/AparnaVinod.pdf';
+import aparna from './assets/aparna..pdf';
 import Footer from './components/Footer';
 
 function Portfolio() {
@@ -40,14 +40,18 @@ function Portfolio() {
                 <span className="text-info"><b>Aparna Vinod</b></span>
               </h2>
               <h2 className="text-secondary mt-4" id="mern">
-                <b><span className="text-info">MER(A)N</span> Stack Web Developer</b>
+                <b><span className="text-info">MERN</span> Stack Web Developer</b>
               </h2>
               <h6 className="text-secondary mt-3">
-                <b>Passionate MER(A)N stack developer with a knack for building scalable, full-stack web applications.<br />Skilled in MongoDB, Express, React, Angular and Node.js, I bring creative solutions to complex problems.</b>
+                <b>with over 1 year of professional experience building scalable, production-grade web 
+applications. Proficient in MongoDB, Express.js, React.js, and Node.js with hands-on expertise in RESTful API 
+design, JWT authentication, real-time communication (Socket.IO), third-party payment integrations (Stripe, 
+Razorpay, Cashfree), and PostgreSQL. Experienced in delivering multi-role platforms for domains including 
+education, HR, logistics, and e-commerce. </b>
               </h6>
             </div>
            
-           <button className='btn btn-info'> <a href={Aparna} style={{textDecoration:"none", color:"white"}}>Hire me</a></button>
+           <button className='btn btn-info'> <a href={aparna} style={{textDecoration:"none", color:"white"}}>Hire me</a></button>
           </div>
           <div className="col-lg-4 col-md-12 text-center">
             <img src={pic} className="img-fluid mt-4 w-100" alt="Profile" />
