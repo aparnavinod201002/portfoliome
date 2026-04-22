@@ -40,7 +40,7 @@ function Projects() {
           
             <Col md={6} lg={4} className="mb-4">
             <Card className="h-100 bg-transparent">
-              <Card.Img variant="top" src={kalagraham} alt="Project 1" />
+              <Card.Img variant="top" src={kalagraham} alt="Project 2" />
               <Card.Body>
                 <Card.Title className='text-info'></Card.Title>
                 <Card.Text className='text-secondary'>
@@ -52,7 +52,7 @@ function Projects() {
           </Col>
     <Col md={6} lg={4} className="mb-4">
             <Card className="h-100 bg-transparent">
-              <Card.Img variant="top" src={coffe} alt="Project 1" />
+              <Card.Img variant="top" src={coffe} alt="Project 3" />
               <Card.Body>
                 <Card.Title className='text-info'></Card.Title>
                 <Card.Text className='text-secondary'>
@@ -62,11 +62,11 @@ function Projects() {
               </Card.Body>
             </Card>
           </Col>
-          
+
           {/* Card 2 */}
           <Col md={6} lg={4} className="mb-4 ">
             <Card className="h-100 bg-transparent">
-              <Card.Img variant="top" src={budget} alt="Project 2" />
+              <Card.Img variant="top" src={budget} alt="Project 4" />
               <Card.Body>
                 <Card.Title className='text-info'></Card.Title>
                 <Card.Text className='text-secondary'>
@@ -80,7 +80,7 @@ function Projects() {
           {/* Card 3 */}
           <Col md={6} lg={4} className="mb-4">
             <Card className="h-100 bg-transparent">
-              <Card.Img variant="top" src={season} alt="Project 3" />
+              <Card.Img variant="top" src={season} alt="Project 5" />
               <Card.Body>
                 <Card.Title className='text-info'></Card.Title>
                 <Card.Text className='text-secondary'>
