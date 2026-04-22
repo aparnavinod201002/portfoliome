@@ -4,7 +4,7 @@ import pic from './assets/pic.png';
 import About from './components/About';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
-import aparna from './assets/aparna..pdf';
+import aparna from './assets/aparna.pdf';
 import Footer from './components/Footer';
 
 function Portfolio() {
