@@ -210,7 +210,7 @@ const styles = `
 const skills = [
   'React.js', 'Node.js', 'Express.js', 'MongoDB',
   'REST APIs', 'JavaScript (ES6+)', 'Git & GitHub',
-  'Tailwind CSS', 'ASP.NET Core',
+  'Tailwind CSS',
 ];
 
 const stats = [

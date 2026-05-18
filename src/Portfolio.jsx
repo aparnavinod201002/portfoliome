@@ -481,7 +481,6 @@ function Portfolio() {
             <strong>MongoDB, Express.js, React.js &amp; Node.js</strong> with hands-on expertise
             in RESTful API design, JWT authentication, real-time communication (Socket.IO),
             and third-party payment integrations — <strong>Stripe, Razorpay &amp; Cashfree</strong>.
-            Delivered multi-role platforms across education, HR, logistics, and e-commerce domains.
           </p>
 
           <div className="hero-tags">
